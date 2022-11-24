@@ -22,6 +22,24 @@ button, summary {
 	--color-background:#eee;
 }
 
+h1 {
+	position: absolute;
+}
+
+nav ul {
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color: brown;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+img {
+	display: grid;
+}
+
+button {
+	padding: 2em;
+}
 
 
 
